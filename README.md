@@ -2,7 +2,7 @@
 
 ### What can you find in my github?<br />
 
-- &nbsp; #### SprintX repositories: <br />
+#### - &nbsp; SprintX repositories: <br />
 &nbsp;These repositories referes to my work at ItAcademy Bootcamp learning Java with SpringBoot<br />
 &nbsp;- &nbsp; Sprint 1: Java basics such as generics, utils, exceptions, annotations, lambdas...<br />
 &nbsp;- &nbsp; Sprint 2: MySql ang MongoDB, scripts and queries.<br />
@@ -11,6 +11,9 @@
 &nbsp;- &nbsp; Sprint 5.1: Advanced Spring. Thymyleaf, Swagger and connecton of 2 diferent API's. <br />
 &nbsp;- &nbsp; Sprint 5.2: Advanced Spring. Final project, a REST API CRUD with secutiry. <br />
 
+#### - &nbsp; Other repositories: <br />
+&nbsp;You can take a look to other projects i've worked on<br />
+&nbsp;- &nbsp; Vueling hackathon challenge: I've been part of a tche hack organaised by Vueling and Barcelona Activa <br />
 
 - 🔭 I’m currently working on my own flutter app.
 - 🌱 I’m currently learning flutter
